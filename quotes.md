@@ -2,9 +2,9 @@
 
 A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 
-[Software]: #Software
-[Life]: #Life
-[Dutch]: #Dutch
+[Software]: #software
+[Life]: #life
+[Dutch]: #dutch
 
 ## Software
 
