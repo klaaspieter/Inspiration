@@ -8,3 +8,4 @@ a massive [Pocket](https://getpocket.com/) archive, up until now I never bothere
 https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
 - [Come here and work on hard problems… except the ones on our doorstep](https://programmingisterrible.com/post/50421878989/come-here-and-work-on-hard-problems-except-the)
 - [The Parable of the Mexican Fisherman](http://renewablewealth.com/the-parable-of-the-mexican-fisherman/)
+- [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/#fnref:void) 🤯
