@@ -25,3 +25,21 @@ https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than
 
 - [Come here and work on hard problems… except the ones on our doorstep](https://programmingisterrible.com/post/50421878989/come-here-and-work-on-hard-problems-except-the)
 - [The Parable of the Mexican Fisherman](http://renewablewealth.com/the-parable-of-the-mexican-fisherman/)
+
+## Parenting
+
+- [The Overprotected Kid](https://www.theatlantic.com/features/archive/2014/03/hey-parents-leave-those-kids-alone/358631/)
+- [The Play Deficit](http://aeon.co/magazine/culture/children-today-are-suffering-a-severe-deficit-of-play/)
+- [10 Common Mistakes Parents Today Make (Me Included)](http://m.huffpost.com/us/entry/4753451?ncid=fcbklnkushpmg00000037)
+
+    > Prepare your child for the road, not the road for your child."
+
+- [How to land your kid in therapy - Lori Gottllieb](https://www.theatlantic.com/magazine/archive/2011/07/how-to-land-your-kid-in-therapy/308555/)
+- [Finland schools: Subjects scrapped and replaced with ‘topics’ as country reforms it’s education system](https://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html)
+
+- [What the best education systems are doing right](https://ideas.ted.com/what-the-best-education-systems-are-doing-right/)
+  > Today, the American culture of choice puts the onus on parents to find the “right” schools for our kids, rather than trusting that all schools are capable of preparing our children for adulthood. 
+- [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
+- [In an age of robots, schools are teaching our children to be redundant](https://www.theguardian.com/commentisfree/2017/feb/15/robots-schools-teaching-children-redundant-testing-learn-future)
+- [No grammar schools, lots of play: the secrets of Europe’s top education system](https://www.theguardian.com/education/2016/sep/20/grammar-schools-play-europe-top-education-system-finland-daycare)
+- [The Anti-Helicopter Parent’s Plea: Let Kids Play!](https://www.nytimes.com/2016/10/23/magazine/the-anti-helicopter-parents-plea-let-kids-play.html)
