@@ -38,6 +38,9 @@ A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 > Every animation is a trade-off between providing context and your users productivity. 
 > - Me
 
+> Because it is the rewards of the process that will keep you energized and moving forward
+> - Kim Scott — Radical Candor
+
 ## Life
 
 > The old has to die for the new to prosper — Steve Jobs
