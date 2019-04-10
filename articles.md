@@ -5,6 +5,9 @@ a massive [Pocket](https://getpocket.com/) archive, up until now I never bothere
 
 ## Life
 
+- [The reign of recycling](https://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html)
+    > As you sort everything into the right bins, you probably assume that recycling is helping your community and protecting the environment. But is it? Are you in fact wasting your time?
+
 - [White gold: the unstoppable rise of alternative milks](https://www.theguardian.com/news/2019/jan/29/white-gold-the-unstoppable-rise-of-alternative-milks-oat-soy-rice-coconut-plant)
 
     Key quotes (emphasis mine).
