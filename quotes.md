@@ -41,6 +41,9 @@ A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 > Because it is the rewards of the process that will keep you energized and moving forward
 > - Kim Scott — Radical Candor
 
+> Our very attempts to stave off disaster by introducing safety systems ultimately increase the overall complexity of the systems, ensuring that some unpredictable outcome will rear its ugly head no matter what.
+> - Erik Larson — [When Making Things Better Only Makes Them Worse](https://www.theatlantic.com/ideas/archive/2019/04/why-accidents-like-notre-dame-fire-happen/587956/)
+
 ## Life
 
 > The old has to die for the new to prosper — Steve Jobs
