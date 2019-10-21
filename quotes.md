@@ -123,6 +123,9 @@ We don’t stop playing because we grow old; we grow old because we stop playing
 > I have found that all ugly things are made by those who strive to make something beautiful, and that all beautiful things are made by those who strive to make something useful.
 > - Oscar Wilde
 
+> The whole problem with the world is that fools and fanatics are always so certain of themselves and wise people so full of doubts.
+> – Bertrand Russell
+
 ## Dutch
 
 > Nieuws produceert, op z’n best, seriële en kortstondige verontwaardiging - een dagelijkse dosis ‘what the fuck’ die al gauw weer wegebt tot de volgende nieuwscyclus zich aandient.
