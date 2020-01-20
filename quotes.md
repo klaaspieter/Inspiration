@@ -44,6 +44,9 @@ A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 > Our very attempts to stave off disaster by introducing safety systems ultimately increase the overall complexity of the systems, ensuring that some unpredictable outcome will rear its ugly head no matter what.
 > - Erik Larson — [When Making Things Better Only Makes Them Worse](https://www.theatlantic.com/ideas/archive/2019/04/why-accidents-like-notre-dame-fire-happen/587956/)
 
+> The trick is to fix the problem you have, rather than the problem you want.
+> - Bram Cohen
+
 ## Life
 
 > The old has to die for the new to prosper — Steve Jobs
