@@ -47,6 +47,9 @@ A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 > The trick is to fix the problem you have, rather than the problem you want.
 > - Bram Cohen
 
+> for each desired change, make the change easy (warning: this may be hard), then make the easy change
+> - Kent Beck — https://twitter.com/KentBeck/status/250733358307500032
+
 ## Life
 
 > The old has to die for the new to prosper — Steve Jobs
