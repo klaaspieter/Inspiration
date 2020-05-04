@@ -132,6 +132,10 @@ We don’t stop playing because we grow old; we grow old because we stop playing
 > The whole problem with the world is that fools and fanatics are always so certain of themselves and wise people so full of doubts.
 > – Bertrand Russell
 
+> Tidying creates cohesion & also information. The information is why to work in small steps. Make a step, ship it, learn something, and then make the next step. Don't wait to ship until you've learned everything because you'll wait forever.
+> A cost of this strategy is you have to deal with half-completed migrations. It's that or big merges.
+> - Kent Beck - https://twitter.com/KentBeck/status/1255911188065468416
+
 ## Dutch
 
 > Nieuws produceert, op z’n best, seriële en kortstondige verontwaardiging - een dagelijkse dosis ‘what the fuck’ die al gauw weer wegebt tot de volgende nieuwscyclus zich aandient.
