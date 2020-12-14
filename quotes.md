@@ -54,6 +54,9 @@ A collection of quotes I like. Divided by [Software], [Life], and [Dutch].
 > A cost of this strategy is you have to deal with half-completed migrations. It's that or big merges.
 > - Kent Beck - https://twitter.com/KentBeck/status/1255911188065468416
 
+> if you come across a gate in a field and see no reason why its should be there, do not remove it until you have figured out why it was put there in the first place.
+> - https://twitter.com/wrathofgnon/status/1338141022493102080
+
 ## Life
 
 > The old has to die for the new to prosper — Steve Jobs
