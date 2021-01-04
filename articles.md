@@ -25,6 +25,7 @@ a massive [Pocket](https://getpocket.com/) archive, up until now I never bothere
 - [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Repeat yourself, do more than one thing, and rewrite everything](
 https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than-one-thing-and)
+- [Why have a strategy for change?](https://twitter.com/GeePawHill/status/1345802124412780547)
 - [Why Doctors Hate Their Computers](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
     
     How software designed with an infinite amount of requirements is preventing doctor's from interacting with patients and forces them to focus on their computers. I especially liked how the author wrote about mutation and selection.
