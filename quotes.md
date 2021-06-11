@@ -142,6 +142,9 @@ We don’t stop playing because we grow old; we grow old because we stop playing
 > You don't have to be positive. You don't have to feel guilty about fear or sadness or anger. You don't stop the rain by telling it to stop. Sometimes you just have to let it pour, let it soak your skin. It never rains for ever. And know that, however wet you get, you are not the rain. You are not the bad feelings in your head. You are the person _experiencing_ the storm. The storm may knock you off your feet. But you will stand again. Hold on.
 > - Matt Haig - The Comfort Book
 
+> The idea of identifying myself as a Republican or a Decmorat or a liberal or conservative, that's ridiculous to me. Because it means I outsourced my thinking to a group of people that I don't think are thinking scientifically.
+> - Adam Grant - [Rethinking Your Position](https://fs.blog/knowledge-project/adam-grant2/)
+
 
 ## Dutch
 
