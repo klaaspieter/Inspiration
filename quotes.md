@@ -137,10 +137,10 @@ We don’t stop playing because we grow old; we grow old because we stop playing
 > - Oscar Wilde
 
 > The whole problem with the world is that fools and fanatics are always so certain of themselves and wise people so full of doubts.
-> – Bertrand Russell
+> - Bertrand Russell
   
 > You don't have to be positive. You don't have to feel guilty about fear or sadness or anger. You don't stop the rain by telling it to stop. Sometimes you just have to let it pour, let it soak your skin. It never rains for ever. And know that, however wet you get, you are not the rain. You are not the bad feelings in your head. You are the person _experiencing_ the storm. The storm may knock you off your feet. But you will stand again. Hold on.
-> — Matt Haig - The Comfort Book
+> - Matt Haig - The Comfort Book
 
 
 ## Dutch
