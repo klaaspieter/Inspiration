@@ -61,6 +61,8 @@ https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than
     > 
     > Rule 6.  There is no Rule 6. 
 
+- [Don't block yourself](https://world.hey.com/jorge/don-t-block-yourself-a-remote-worker-super-power-7322c679)
+
 ## Business
 
 - [Come here and work on hard problems… except the ones on our doorstep](https://programmingisterrible.com/post/50421878989/come-here-and-work-on-hard-problems-except-the)
