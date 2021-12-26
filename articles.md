@@ -70,6 +70,9 @@ https://programmingisterrible.com/post/176657481103/repeat-yourself-do-more-than
 
 ## Parenting
 
+- http://www.lunarbaboon.com/comics/tools.html
+    ![image](https://user-images.githubusercontent.com/98880/147413475-f65d1c1d-a703-49b1-b3c4-2d31f0a08fd8.png)
+
 - [The Overprotected Kid](https://www.theatlantic.com/features/archive/2014/03/hey-parents-leave-those-kids-alone/358631/)
 - [The Play Deficit](http://aeon.co/magazine/culture/children-today-are-suffering-a-severe-deficit-of-play/)
 - [10 Common Mistakes Parents Today Make (Me Included)](http://m.huffpost.com/us/entry/4753451?ncid=fcbklnkushpmg00000037)
